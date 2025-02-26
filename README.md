@@ -4,6 +4,12 @@ This is a Java Web Programming exercise related to University of Applied Science
 
 ## Running the application
 
+Visual Studio Code
+
+Open Folder in VS Code to open the project. VS Code automatically recognizes that this is a Maven-based Java project (requires Java Extension Pack). Project is now ready to run. Run Application.java.
+
+IDE
+
 Open the project in an IDE. You can download the [IntelliJ community edition](https://www.jetbrains.com/idea/download) if you do not have a suitable IDE already.
 Once opened in the IDE, locate the `Application` class and run the main method using "Debug".
 
