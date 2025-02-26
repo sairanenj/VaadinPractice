@@ -1,7 +1,6 @@
 # Peliapuriapp
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+This is a Java Web Programming exercise related to University of Applied Sciences (SAVONIA). The main purpose is a frontend-focused exercise using the Java Vaadin Flow. The idea of ​​the app itself is to be a tool for speech therapists who use games in their teaching. The app could also be used for other similar purposes or just as some note-taking tool. All information/data is fictional for the demo, and the project is not suitable for official use as such.
 
 ## Running the application
 
